@@ -1,0 +1,11 @@
+sample_id,name,ncbi_accession,species
+SRR12888961,X. perforans,SRR12888961,Xanthomonas perforans
+SRR12888960,X. perforans,SRR12888960,Xanthomonas perforans
+SRR12888760,X. perforans,SRR12888760,Xanthomonas perforans
+SRR27897033,A. tumefaciens,SRR27897033,Agrobacterium tumefaciens
+SRR11174029,R. rhizogenes,SRR11174029,Rhizobium rhizogenes
+SRR11174116,R. rhizogenes,SRR11174116,Rhizobium rhizogenes
+SRR11174105,A. vitis,SRR11174105,Agrobacterium vitis
+SRR11174094,A. vitis,SRR11174094,Agrobacterium vitis
+SRR11174201,A.fabrum,SRR11174201,Agrobacterium fabrum
+SRR11174004,A. rubi,SRR11174004,Agrobacterium rubi

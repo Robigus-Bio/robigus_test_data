@@ -1,0 +1,20 @@
+sample_id,name,ncbi_accession,species
+SAMEA882278,K. pneumoniae,ERR024824,Klebsiella pneumoniae
+SAMEA882280,K. pneumoniae,ERR024826,Klebsiella pneumoniae
+SAMEA882273,K. pneumoniae,ERR024827,Klebsiella pneumoniae
+SAMN11100996,M. abscessus,SRR12574846,Mycobacteroides abscessus
+SAMN11100995,M. abscessus,SRR12574847,Mycobacteroides abscessus
+SAMN11100994,M. abscessus,SRR12574848,Mycobacteroides abscessus
+SAMN11100993,M. abscessus,SRR12574849,Mycobacteroides abscessus
+SAMEA3880302,N. meningitidis,ERR1556258,Neisseria meningitidis
+SAMEA3880305,N. meningitidis,ERR1556259,Neisseria meningitidis
+SAMEA3880307,N. meningitidis,ERR1556260,Neisseria meningitidis
+SAMEA3880319,N. meningitidis,ERR1556266,Neisseria meningitidis
+SAMEA3880327,N. meningitidis,ERR1556270,Neisseria meningitidis
+SAMEA3880334,N. meningitidis,ERR1556274,Neisseria meningitidis
+SAMEA3880346,N. meningitidis,ERR1556281,Neisseria meningitidis
+SAMEA3880351,N. meningitidis,ERR1556284,Neisseria meningitidis
+SAMEA3880355,N. meningitidis,ERR1556286,Neisseria meningitidis
+SAMEA3880356,N. meningitidis,ERR1556287,Neisseria meningitidis
+SAMEA3880360,N. meningitidis,ERR1556289,Neisseria meningitidis
+SAMEA3880362,N. meningitidis,ERR1556290,Neisseria meningitidis

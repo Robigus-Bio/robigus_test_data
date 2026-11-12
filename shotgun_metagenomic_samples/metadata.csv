@@ -1,0 +1,21 @@
+taxon,sra_run_accession,sample_accession,platform,fastq_size_mb,depth_estimate,source_summary,study_doi,sample_type
+human gut metagenome,SRR17233275,SAMN23704984,Illumina,34.8,NA (mixed community),"Human stool shotgun metagenome from a clinical study evaluating detection of enteric bacterial pathogens.",10.3390/microorganisms10020441,Human stool
+human gut metagenome,SRR17238489,SAMN23704989,Illumina,24.3,NA (mixed community),"Human stool shotgun metagenome from a clinical study evaluating detection of enteric bacterial pathogens.",10.3390/microorganisms10020441,Human stool
+human gut metagenome,SRR17278639,SAMN23705030,Illumina,70.1,NA (mixed community),"Human stool shotgun metagenome from a clinical study evaluating detection of enteric bacterial pathogens.",10.3390/microorganisms10020441,Human stool
+human gut metagenome,SRR17231405,SAMN23704962,Illumina,93.4,NA (mixed community),"Human stool shotgun metagenome from a clinical study evaluating detection of enteric bacterial pathogens.",10.3390/microorganisms10020441,Human stool
+human gut metagenome,SRR17238238,SAMN23705001,Illumina,20.8,NA (mixed community),"Human stool shotgun metagenome from a clinical study evaluating detection of enteric bacterial pathogens.",10.3390/microorganisms10020441,Human stool
+human gut metagenome,SRR17262939,SAMN23705011,Illumina,11.6,NA (mixed community),"Human stool shotgun metagenome from a clinical study evaluating detection of enteric bacterial pathogens.",10.3390/microorganisms10020441,Human stool
+human gut metagenome,SRR17278640,SAMN23705032,Illumina,71.5,NA (mixed community),"Human stool shotgun metagenome from a clinical study evaluating detection of enteric bacterial pathogens.",10.3390/microorganisms10020441,Human stool
+human gut metagenome,SRR17289471,SAMN23705098,Illumina,72.0,NA (mixed community),"Human stool shotgun metagenome from a clinical study evaluating detection of enteric bacterial pathogens.",10.3390/microorganisms10020441,Human stool
+wastewater metagenome,SRR29484801,SAMN41936019,Illumina,15.4,NA (mixed community),"WISER wastewater surveillance metagenome with SARS-CoV-2 monitoring; community sewage sample.",NA,Wastewater
+wastewater metagenome,SRR29484805,SAMN41936015,Illumina,13.1,NA (mixed community),"WISER wastewater surveillance metagenome with SARS-CoV-2 monitoring; community sewage sample.",NA,Wastewater
+wastewater metagenome,SRR29484820,SAMN41936002,Illumina,14.7,NA (mixed community),"WISER wastewater surveillance metagenome with SARS-CoV-2 monitoring; community sewage sample.",NA,Wastewater
+wastewater metagenome,SRR29484837,SAMN41935985,Illumina,29.3,NA (mixed community),"WISER wastewater surveillance metagenome with SARS-CoV-2 monitoring; community sewage sample.",NA,Wastewater
+wastewater metagenome,SRR29484863,SAMN41935962,Illumina,24.2,NA (mixed community),"WISER wastewater surveillance metagenome with SARS-CoV-2 monitoring; community sewage sample.",NA,Wastewater
+wastewater metagenome,SRR29484902,SAMN41936042,Illumina,19.1,NA (mixed community),"WISER wastewater surveillance metagenome with SARS-CoV-2 monitoring; community sewage sample.",NA,Wastewater
+sludge metagenome,SRR33483090,SAMN48400748,Illumina,15.2,NA (mixed community),"Sewage-sludge compost shotgun metagenomic sample X2; mixed environmental microbiota.",NA,Sewage sludge compost
+sludge metagenome,SRR33483075,SAMN48400755,Illumina,21.7,NA (mixed community),"Sewage-sludge compost shotgun metagenomic sample X9; mixed environmental microbiota.",NA,Sewage sludge compost
+sludge metagenome,SRR33483077,SAMN48400753,Illumina,29.4,NA (mixed community),"Sewage-sludge compost shotgun metagenomic sample X7; mixed environmental microbiota.",NA,Sewage sludge compost
+sludge metagenome,SRR33483079,SAMN48400751,Illumina,23.9,NA (mixed community),"Sewage-sludge compost shotgun metagenomic sample X5; mixed environmental microbiota.",NA,Sewage sludge compost
+sludge metagenome,SRR33483083,SAMN48400763,Illumina,22.7,NA (mixed community),"Sewage-sludge compost shotgun metagenomic sample X17; mixed environmental microbiota.",NA,Sewage sludge compost
+sludge metagenome,SRR33483086,SAMN48400760,Illumina,30.2,NA (mixed community),"Sewage-sludge compost shotgun metagenomic sample X14; mixed environmental microbiota.",NA,Sewage sludge compost

@@ -1,11 +1,26 @@
-sample_id,name,ncbi_accession,species
-SRR12888961,X. perforans,SRR12888961,Xanthomonas perforans
-SRR12888960,X. perforans,SRR12888960,Xanthomonas perforans
-SRR12888760,X. perforans,SRR12888760,Xanthomonas perforans
-SRR27897033,A. tumefaciens,SRR27897033,Agrobacterium tumefaciens
-SRR11174029,R. rhizogenes,SRR11174029,Rhizobium rhizogenes
-SRR11174116,R. rhizogenes,SRR11174116,Rhizobium rhizogenes
-SRR11174105,A. vitis,SRR11174105,Agrobacterium vitis
-SRR11174094,A. vitis,SRR11174094,Agrobacterium vitis
-SRR11174201,A.fabrum,SRR11174201,Agrobacterium fabrum
-SRR11174004,A. rubi,SRR11174004,Agrobacterium rubi
+taxon,sra_run_accession,sample_accession,platform,fastq_size_mb,depth_estimate,source_summary,study_doi,sample_type
+Xanthomonas perforans,SRR12888961,SAMN16475985,Illumina,265.6,~86x,"Isolate from Florida tomato fields during the 2017-18 season.",10.1038/s41396-021-01104-8,Tomato leaf
+Xanthomonas perforans,SRR12888960,SAMN16475986,Illumina,208.7,~68x,"Isolate from Florida tomato fields during the 2017-18 season.",10.1038/s41396-021-01104-8,Tomato leaf
+Xanthomonas perforans,SRR12888760,SAMN16475987,Illumina,248.0,~80x,"Isolate from Florida tomato fields during the 2017-18 season.",10.1038/s41396-021-01104-8,Tomato leaf
+Agrobacterium tumefaciens,SRR27897033,SAMN14165428,Oxford Nanopore,453.5,~89x,"Long-read WGS run in an Agrobacterium genome sequencing and assembly project.",NA,Bacterial culture (host: Sedum)
+Martinezella rhizogenes,SRR11174029,SAMN14165432,Illumina,1151.7,~318x,"WGS run for a Rhizobium rhizogenes strain in an Agrobacterium genome sequencing project.",NA,Bacterial culture (host: peach)
+Martinezella rhizogenes,SRR11174116,SAMN14165435,Illumina,1344.9,~360x,"WGS run for a Rhizobium rhizogenes strain in an Agrobacterium genome sequencing project.",NA,Bacterial culture (host: peach)
+Gillisella vitis,SRR11174105,SAMN14165436,Illumina,1121.6,~265x,"WGS run for an Agrobacterium vitis strain in an Agrobacterium genome sequencing project.",NA,Bacterial culture (host: grape)
+Gillisella vitis,SRR11174094,SAMN14165437,Illumina,1128.2,~270x,"WGS run for an Agrobacterium vitis strain in an Agrobacterium genome sequencing project.",NA,Bacterial culture (host: grape)
+Agrobacterium fabrum,SRR11174201,SAMN14165530,Illumina,1106.9,~301x,"WGS run in an Agrobacterium genome sequencing and assembly project.",NA,Bacterial culture (host: peony)
+Agrobacterium rubi,SRR11174004,SAMN14165513,Illumina,1439.2,~408x,"WGS run in an Agrobacterium genome sequencing and assembly project.",NA,Bacterial culture (host: Euonymus)
+Botrytis cinerea,SRR28314584,SAMN40370509,Illumina,12.9,~1.0x,"North Carolina isolate in a four-isolate genome sequencing study.",10.1094/PHYTOFR-05-24-0060-A,Blueberry (exact tissue not reported)
+Botrytis cinerea,SRR28314585,SAMN40370508,Illumina,12.8,~1.0x,"North Carolina isolate in a four-isolate genome sequencing study.",10.1094/PHYTOFR-05-24-0060-A,Strawberry (exact tissue not reported)
+Botrytis cinerea,SRR28314586,SAMN40370507,Illumina,12.7,~1.0x,"North Carolina isolate in a four-isolate genome sequencing study.",10.1094/PHYTOFR-05-24-0060-A,Strawberry (exact tissue not reported)
+Fusarium oxysporum,SRR32310737,SAMN46779773,Oxford Nanopore,34.6,~0.5x,"Long-read genome sequencing and assembly of F. oxysporum strain IraGTOF11.",NA,Agricultural soil (strawberry-associated isolate)
+Phytophthora infestans,DRR160379,SAMD00151780,Illumina,67.7,~0.4x,"Isolate EG_26 in a study of genome-wide variation among P. infestans isolates.",10.1371/journal.pone.0221604,Cultured isolate (host/tissue not reported)
+Phytophthora infestans,DRR160383,SAMD00151784,Illumina,66.3,~0.4x,"Isolate EG_14 in a study of genome-wide variation among P. infestans isolates.",10.1371/journal.pone.0221604,Cultured isolate (host/tissue not reported)
+Erwinia amylovora,SRR9107997,SAMN11822735,Illumina,15.1,~5x,"Fire blight pathogen isolate Ea284 from apple and pear sequencing study.",10.1038/s41598-019-50589-z,Bacterial culture (host: crabapple)
+Erwinia amylovora,SRR9108000,SAMN11822732,Illumina,25.9,~9x,"Fire blight pathogen isolate Ea272 from apple and pear sequencing study.",10.1038/s41598-019-50589-z,Bacterial culture (host: Amelanchier)
+Erwinia amylovora,SRR9108012,SAMN11822718,Illumina,17.9,~6x,"Fire blight pathogen isolate EaWA7 from apple and pear sequencing study.",10.1038/s41598-019-50589-z,Bacterial culture (host: pear)
+Xylella fastidiosa subsp. fastidiosa,SRR13994228,SAMN18344360,Illumina,28.6,~18x,"Cultured isolate in a population genomics study of X. fastidiosa in Taiwan.",10.1099/mgen.0.000727,Grapevine tissue (cultured isolate; Black Queen)
+Xylella fastidiosa subsp. fastidiosa,SRR13994230,SAMN18344358,Illumina,24.7,~15x,"Cultured isolate in a population genomics study of X. fastidiosa in Taiwan.",10.1099/mgen.0.000727,Grapevine tissue (cultured isolate; Golden Muscat)
+Xylella fastidiosa subsp. fastidiosa,SRR13994231,SAMN18344357,Illumina,26.0,~16x,"Cultured isolate in a population genomics study of X. fastidiosa in Taiwan.",10.1099/mgen.0.000727,Grapevine tissue (cultured isolate; Golden Muscat)
+Xanthomonas campestris pv. campestris,SRR25183367,SAMN36346938,Illumina,12.1,~7x,"WHRI 6290 genome sequencing run; black rot pathogen of brassicas.",NA,Bacterial culture (host: Brassica oleracea)
+Xanthomonas campestris pv. campestris,SRR25183370,SAMN36346935,Illumina,18.0,~10x,"WHRI 6195 genome sequencing run; black rot pathogen of brassicas.",NA,Bacterial culture (host: Brassica oleracea)
+Xanthomonas campestris,SRR25161312,SAMN36318662,Illumina,7.3,~4x,"WHRI 6506 genome sequencing run from the Xanthomonas collection.",NA,Bacterial culture (host not reported)

@@ -1,25 +1,12 @@
-taxon,sra_run_accession,sample_accession,platform,fastq_size_mb,depth_estimate,source_summary,study_doi,sample_type
-Staphylococcus aureus,SRR501755,SAMN00809057,Illumina,18.7,~34x,"S. aureus M0565 isolate; genome sequencing project.",NA,Blood
-Klebsiella pneumoniae,DRR1061766,SAMD01919243,Illumina,28.6,~12x,"Clinical carbapenemase-producing isolate AMR4988 from Roi Et, Thailand.",NA,Sputum
-Escherichia coli,DRR063452,SAMD00053138,Illumina,34.1,~9x,"River-water isolate KFu030 in an antimicrobial-resistance and ExPEC survey.",10.1128/AEM.02703-16,River water
-Neisseria meningitidis,SRR33394411,SAMN48269407,Illumina,47.8,~34x,"Clinical/host-associated isolate; raw reads submitted to SRA.",NA,Oropharynx
-Staphylococcus aureus,SRR32179896,SAMN46488123,Oxford Nanopore,40.6,~14x,"Isolate from a swab in the room of a patient with MRSA (patient's walker).",NA,Environmental surface swab (patient's walker)
-Streptococcus pyogenes,SRR31990070,SAMN46240938,Oxford Nanopore,48.9,~26x,"Group A strep isolate from invasive/non-invasive infections in Greece.",NA,Blood
-Neisseria meningitidis,ERR2259087,SAMEA104453295,Oxford Nanopore,24.2,~11x,"Serogroup C ST-10217 isolate from the Niger/Nigeria meningitis-belt outbreak study.",10.1038/s41598-018-32475-2,Throat swab
-Mycobacterium tuberculosis,SRR31579365,SAMN45133431,Oxford Nanopore,42.1,~10x,"M. tuberculosis isolate 02MTB1262 in a rare-lineage pangenome study.",NA,Sputum
-Escherichia coli,SRR19858353,SAMN29363364,Oxford Nanopore,33.5,~6x,"ESBL-positive E. coli isolate from Laos; long-read sequencing for plasmid context.",10.1099/mgen.0.001000,Stool
-Klebsiella pneumoniae,SRR32156743,SAMN46439521,Oxford Nanopore,49.0,~9x,"Blood isolate from healthcare-associated bacteremia of urinary origin in Spain.",NA,Blood culture
-Acinetobacter baumannii,DRR033192,SAMD00028841,Illumina,20.4,~8x,"Multidrug-resistant strain HE-A12 in a strain-typing study.",NA,Clinical isolate (specimen not reported)
-Shigella flexneri,ERR10074776,SAMEA110466910,Illumina,23.0,~9x,"S. flexneri 2a isolate in a South African shigellosis genomic-epidemiology study.",10.1038/s41467-023-43345-5,Stool culture
-Vibrio cholerae,ERR5528547,SAMEA6106935,Illumina,10.5,~5x,"Clinical cholera isolate from the Yemen sequencing study.",10.1038/s41586-018-0818-3,Clinical isolate (specimen not reported)
-Streptococcus pyogenes,SRR30548548,SAMN43427626,Illumina,16.1,~12x,"Clinical Group A strep isolate in Idaho bacterial MLST surveillance.",NA,Clinical isolate (specimen not reported)
-Salmonella enterica,DRR106861,SAMD00097428,Illumina,16.6,~6x,"S. Typhimurium isolate from food-animal surveillance in Japan.",10.1128/JCM.01758-17,Swine-derived isolate (specimen not reported)
-Salmonella enterica,DRR106914,SAMD00097451,Illumina,17.4,~7x,"S. Typhimurium isolate from food-animal surveillance in Japan.",10.1128/JCM.01758-17,Cattle-derived isolate (specimen not reported)
-Mycobacterium tuberculosis,SRR19428572,SAMN25995193,Illumina,15.1,~5x,"Tanzanian tuberculosis isolate in a study of lineages and patient demographics.",10.1186/s12864-022-08791-3,Sputum
-Escherichia coli,DRR063435,SAMD00053106,Illumina,22.2,~5x,"River-water isolate KKa020 in an antimicrobial-resistance and ExPEC survey.",10.1128/AEM.02703-16,River water
-Salmonella enterica,DRR100201,SAMD00090220,Illumina,25.2,~7x,"ESBL-producing Salmonella Manhattan isolate in a plasmid/genome sequencing study.",NA,Chicken meat
-Streptococcus pyogenes,SRR30544030,SAMN43481342,Illumina,27.9,~20x,"Clinical Group A strep isolate in Idaho bacterial MLST surveillance.",NA,Clinical isolate (specimen not reported)
-Candidozyma auris,SRR33570677,SAMN48505271,Oxford Nanopore,47.9,~4x,"C. auris isolate TO666 in a study of the Als4112 adhesin and skin colonization.",10.1038/s41467-025-60876-1,C. auris isolate (specimen not reported)
-Candida albicans,SRR27460429,SAMN39298067,Illumina,25.5,~5x,"Cultured SC5314-derived SIR2 mutant; whole-genome sequencing to genotype strain variation.",10.1099/mic.0.001444,Yeast cell culture
-Toxoplasma gondii,SRR32959683,SAMN47757532,Oxford Nanopore,91.0,~1.4x,"ME49 isolate in a long-read study of within-strain genetic variation.",10.1186/s12864-025-12372-5,Mouse brain tissue cysts
-Aspergillus fumigatus,DRR015091,SAMD00013552,Illumina,51.8,~2.4x,"Patient isolate IFM 59056 from a study of genomic variation in aspergillosis strains.",NA,Patient-derived fungal isolate (specimen not reported)
+speed,taxon,sra_run_accession,sample_accession,platform,fastq_size_mb,depth_estimate,source_summary,study_doi,sample_type
+15,Staphylococcus aureus,SRR501755,SAMN00809057,Illumina,18.7,~34x,S. aureus M0565 isolate; genome sequencing project.,,Blood
+13,Staphylococcus aureus,SRR32179896,SAMN46488123,Oxford Nanopore,40.6,~14x,Isolate from a swab in the room of a patient with MRSA (patient's walker).,,Environmental surface swab (patient's walker)
+12,Neisseria meningitidis,ERR2259087,SAMEA104453295,Oxford Nanopore,24.2,~11x,Serogroup C ST-10217 isolate from the Niger/Nigeria meningitis-belt outbreak study.,10.1038/s41598-018-32475-2,Throat swab
+19,Vibrio cholerae,ERR5528547,SAMEA6106935,Illumina,10.5,~5x,Clinical cholera isolate from the Yemen sequencing study.,10.1038/s41586-018-0818-3,
+9,Streptococcus pyogenes,SRR30548548,SAMN43427626,Illumina,16.1,~12x,Clinical Group A strep isolate in Idaho bacterial MLST surveillance.,,
+27,Salmonella enterica,DRR106861,SAMD00097428,Illumina,16.6,~6x,S. Typhimurium isolate from food-animal surveillance in Japan.,10.1128/JCM.01758-17,
+30,Salmonella enterica,DRR106914,SAMD00097451,Illumina,17.4,~7x,S. Typhimurium isolate from food-animal surveillance in Japan.,10.1128/JCM.01758-17,
+27,Mycobacterium tuberculosis,SRR19428572,SAMN25995193,Illumina,15.1,~5x,Tanzanian tuberculosis isolate in a study of lineages and patient demographics.,10.1186/s12864-022-08791-3,Sputum
+10,Candidozyma auris,SRR33570677,SAMN48505271,Oxford Nanopore,47.9,~4x,C. auris isolate TO666 in a study of the Als4112 adhesin and skin colonization.,10.1038/s41467-025-60876-1,
+,Candida albicans,SRR27460429,SAMN39298067,Illumina,25.5,~5x,Cultured SC5314-derived SIR2 mutant; whole-genome sequencing to genotype strain variation.,10.1099/mic.0.001444,Yeast cell culture
+,Aspergillus fumigatus,DRR015091,SAMD00013552,Illumina,51.8,~2.4x,Patient isolate IFM 59056 from a study of genomic variation in aspergillosis strains.,,

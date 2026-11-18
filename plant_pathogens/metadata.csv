@@ -11,7 +11,6 @@ Agrobacterium fabrum,SRR11174201,SAMN14165530,Illumina,1106.9,~301x,"WGS run in 
 Agrobacterium rubi,SRR11174004,SAMN14165513,Illumina,1439.2,~408x,"WGS run in an Agrobacterium genome sequencing and assembly project.",NA,Bacterial culture (host: Euonymus)
 Botrytis cinerea,SRR28314584,SAMN40370509,Illumina,12.9,~1.0x,"North Carolina isolate in a four-isolate genome sequencing study.",10.1094/PHYTOFR-05-24-0060-A,Blueberry (exact tissue not reported)
 Botrytis cinerea,SRR28314585,SAMN40370508,Illumina,12.8,~1.0x,"North Carolina isolate in a four-isolate genome sequencing study.",10.1094/PHYTOFR-05-24-0060-A,Strawberry (exact tissue not reported)
-Botrytis cinerea,SRR28314586,SAMN40370507,Illumina,12.7,~1.0x,"North Carolina isolate in a four-isolate genome sequencing study.",10.1094/PHYTOFR-05-24-0060-A,Strawberry (exact tissue not reported)
 Fusarium oxysporum,SRR32310737,SAMN46779773,Oxford Nanopore,34.6,~0.5x,"Long-read genome sequencing and assembly of F. oxysporum strain IraGTOF11.",NA,Agricultural soil (strawberry-associated isolate)
 Phytophthora infestans,DRR160379,SAMD00151780,Illumina,67.7,~0.4x,"Isolate EG_26 in a study of genome-wide variation among P. infestans isolates.",10.1371/journal.pone.0221604,Cultured isolate (host/tissue not reported)
 Phytophthora infestans,DRR160383,SAMD00151784,Illumina,66.3,~0.4x,"Isolate EG_14 in a study of genome-wide variation among P. infestans isolates.",10.1371/journal.pone.0221604,Cultured isolate (host/tissue not reported)

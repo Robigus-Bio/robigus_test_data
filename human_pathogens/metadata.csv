@@ -6,6 +6,8 @@ Vibrio cholerae,ERR5528547,SAMEA6106935,Illumina,10.5,~5x,Clinical cholera isola
 Streptococcus pyogenes,SRR30548548,SAMN43427626,Illumina,16.1,~12x,Clinical Group A strep isolate in Idaho bacterial MLST surveillance.,,
 Salmonella enterica,DRR106861,SAMD00097428,Illumina,16.6,~6x,S. Typhimurium isolate from food-animal surveillance in Japan.,10.1128/JCM.01758-17,
 Salmonella enterica,DRR106914,SAMD00097451,Illumina,17.4,~7x,S. Typhimurium isolate from food-animal surveillance in Japan.,10.1128/JCM.01758-17,
+Salmonella enterica,DRR106830,SAMD00097412,Illumina,15.4,~6x,S. Typhimurium L-3039 isolate from food-animal surveillance in Japan.,10.1128/JCM.01758-17,
+Salmonella enterica,DRR106874,SAMD00097433,Illumina,17.3,~7x,Monophasic S. enterica L-3783 isolate from food-animal surveillance in Japan.,10.1128/JCM.01758-17,
 Mycobacterium tuberculosis,SRR19428572,SAMN25995193,Illumina,15.1,~5x,Tanzanian tuberculosis isolate in a study of lineages and patient demographics.,10.1186/s12864-022-08791-3,Sputum
 Candidozyma auris,SRR33570677,SAMN48505271,Oxford Nanopore,47.9,~4x,C. auris isolate TO666 in a study of the Als4112 adhesin and skin colonization.,10.1038/s41467-025-60876-1,
 Candida albicans,SRR27460429,SAMN39298067,Illumina,25.5,~5x,Cultured SC5314-derived SIR2 mutant; whole-genome sequencing to genotype strain variation.,10.1099/mic.0.001444,Yeast cell culture
